@@ -14,9 +14,12 @@
 
  - Angular tiene las siguientes características clave que lo convierten en uno de los marcos más potentes del mercado:
 
-|Características | Desventajas |
+|Características | Definición |
 |-------------|:-------------:|
-|MVC | (Modelo-Vista-Controlador). Este es un patrón de diseño utilizado en todas las aplicaciones web modernas. Este patrón se basa en dividir la capa de lógica empresarial, la capa de datos y la capa de presentación en secciones separadas. |
+|MVC | Este es un patrón de diseño utilizado en todas las aplicaciones web modernas. Este patrón se basa en dividir la capa de lógica empresarial, la capa de datos y la capa de presentación en secciones separadas. |
 |Enlace del modelo de datos | No es necesario escribir código especial para vincular datos a los controles HTML. Angular puede hacer esto simplemente agregando algunos fragmentos de código. |
 |Escribir menos código | Con Angular, te sorprenderá la menor cantidad de código que necesitas escribir para la manipulación DOM. |
 |Unidad Pruebas listo | Desarrollaron un marco de prueba llamado "Karma" que ayuda a diseñar pruebas unitarias para aplicaciones AngularJS. |
+
+# __Enlace video tutorial:__
+[Click aquí](https://youtu.be/kqYuyACFVkE?si=sYZGkI28WhDz5R8a)
