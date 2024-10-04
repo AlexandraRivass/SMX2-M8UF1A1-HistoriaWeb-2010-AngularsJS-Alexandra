@@ -1,4 +1,3 @@
-# SMX2-M8UF1A1-HistoriaWeb-2010-AngularJS-Alexandra
 
 # __AngularJS__:technologist:
 
