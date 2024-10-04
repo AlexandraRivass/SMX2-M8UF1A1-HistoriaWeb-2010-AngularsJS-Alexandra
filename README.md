@@ -8,4 +8,4 @@
 
 - Incluye un catálogo de plantillas en las que se proponen una serie de patrones de diseño para trabajar a partir de ellas, lo que ayuda a los desarrolladores a la hora de facilitar sus tareas y ahorrar tiempo.
 
-![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A1-HistoriaWeb-2010-Pinterest-Alexandra/blob/main/que-es-angular-scaled-1200x675.jpg)
+![tick](https://github.com/AlexandraRivass/SMX2-M8UF1A1-HistoriaWeb-2010-Pinterest-Alexandra/blob/main/que-es-angular-scaled-1200x675.jpg)" width="100" height="100"
