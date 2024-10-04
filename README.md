@@ -1,4 +1,4 @@
-# SMX2-M8UF1A1-HistoriaWeb-2010-HTML se divide en dos-Alexandra
+# SMX2-M8UF1A1-HistoriaWeb-2010-HAngularJS-Alexandra
 
 # __AngularJS__:technologist:
 
